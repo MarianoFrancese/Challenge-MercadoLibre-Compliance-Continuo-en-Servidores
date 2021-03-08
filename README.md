@@ -5,8 +5,8 @@ Challenge Técnico de Mercado Libre
 Agente y API rest desarrolladas en Python. Para la API, utilizando el framework Flask.
 
 ## Ambiente de desarrollo virtual
-Se usó un entorno virtual para instalar las librerias necesarias, venv que viene incluido con python
-Para instalarlo, hay que ejecutra el siguiente comando:
+Se usó un entorno virtual para instalar las librerias necesarias, venv que viene incluido con python.
+Para instalarlo, hay que ejecutar el siguiente comando:
 ``` python -m  venv venv ```
 
 Después de instalado, es necesaria la activación del ambiente, por lo que hay que ejecutar:
